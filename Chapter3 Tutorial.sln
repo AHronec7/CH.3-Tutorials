@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 3-4", "Tutorial 3-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial 3-5", "Tutorial 3-5\Tutorial 3-5.csproj", "{ADA2E487-F9B7-4AB8-A9ED-E5750F36FC1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingProblem1", "ProgrammingProblem1\ProgrammingProblem1.csproj", "{DEDF5138-4BED-450A-9891-02402E0237E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{ADA2E487-F9B7-4AB8-A9ED-E5750F36FC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADA2E487-F9B7-4AB8-A9ED-E5750F36FC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADA2E487-F9B7-4AB8-A9ED-E5750F36FC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDF5138-4BED-450A-9891-02402E0237E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDF5138-4BED-450A-9891-02402E0237E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDF5138-4BED-450A-9891-02402E0237E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDF5138-4BED-450A-9891-02402E0237E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

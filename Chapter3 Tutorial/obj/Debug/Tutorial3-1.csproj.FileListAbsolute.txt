@@ -1,0 +1,10 @@
+D:\C#\Chapter3 Tutorial\Chapter3 Tutorial\bin\Debug\Chapter3 Tutorial.exe.config
+D:\C#\Chapter3 Tutorial\Chapter3 Tutorial\bin\Debug\Chapter3 Tutorial.exe
+D:\C#\Chapter3 Tutorial\Chapter3 Tutorial\bin\Debug\Chapter3 Tutorial.pdb
+D:\C#\Chapter3 Tutorial\Chapter3 Tutorial\obj\Debug\Tutorial3-1.csprojResolveAssemblyReference.cache
+D:\C#\Chapter3 Tutorial\Chapter3 Tutorial\obj\Debug\Chapter3_Tutorial.Tutorial3_1.resources
+D:\C#\Chapter3 Tutorial\Chapter3 Tutorial\obj\Debug\Chapter3_Tutorial.Properties.Resources.resources
+D:\C#\Chapter3 Tutorial\Chapter3 Tutorial\obj\Debug\Tutorial3-1.csproj.GenerateResource.Cache
+D:\C#\Chapter3 Tutorial\Chapter3 Tutorial\obj\Debug\Tutorial3-1.csproj.CoreCompileInputs.cache
+D:\C#\Chapter3 Tutorial\Chapter3 Tutorial\obj\Debug\Chapter3 Tutorial.exe
+D:\C#\Chapter3 Tutorial\Chapter3 Tutorial\obj\Debug\Chapter3 Tutorial.pdb
